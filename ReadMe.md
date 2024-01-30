@@ -105,8 +105,8 @@ id: Taiwan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Taiwan/
-markerFolder: ./Taiwan/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Taiwan] 
