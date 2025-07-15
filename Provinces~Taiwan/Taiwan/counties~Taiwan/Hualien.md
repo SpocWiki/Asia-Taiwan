@@ -40,11 +40,18 @@ markerFolder: ./Hualien/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien|Hualien]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.public|Hualien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.internal|Hualien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.protect|Hualien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.private|Hualien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.personal|Hualien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.secret|Hualien.secret]] 
+
+### #is_/same_as :: [Hualien](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hualien.md) 
+
+### #is_/same_as :: [Hualien.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hualien.public.md) 
+
+### #is_/same_as :: [Hualien.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hualien.internal.md) 
+
+### #is_/same_as :: [Hualien.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hualien.protect.md) 
+
+### #is_/same_as :: [Hualien.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hualien.private.md) 
+
+### #is_/same_as :: [Hualien.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hualien.personal.md) 
+
+### #is_/same_as :: [Hualien.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hualien.secret.md)
 

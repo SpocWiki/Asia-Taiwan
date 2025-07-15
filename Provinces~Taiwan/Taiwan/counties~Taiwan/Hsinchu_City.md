@@ -40,11 +40,18 @@ markerFolder: ./Hsinchu_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu_City|Hsinchu_City]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu_City.public|Hsinchu_City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu_City.internal|Hsinchu_City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu_City.protect|Hsinchu_City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu_City.private|Hsinchu_City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu_City.personal|Hsinchu_City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu_City.secret|Hsinchu_City.secret]] 
+
+### #is_/same_as :: [Hsinchu_City](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu_City.md) 
+
+### #is_/same_as :: [Hsinchu_City.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu_City.public.md) 
+
+### #is_/same_as :: [Hsinchu_City.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu_City.internal.md) 
+
+### #is_/same_as :: [Hsinchu_City.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu_City.protect.md) 
+
+### #is_/same_as :: [Hsinchu_City.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu_City.private.md) 
+
+### #is_/same_as :: [Hsinchu_City.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu_City.personal.md) 
+
+### #is_/same_as :: [Hsinchu_City.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu_City.secret.md)
 

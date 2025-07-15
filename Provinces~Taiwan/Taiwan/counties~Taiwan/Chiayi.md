@@ -40,11 +40,18 @@ markerFolder: ./Chiayi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi|Chiayi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.public|Chiayi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.internal|Chiayi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.protect|Chiayi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.private|Chiayi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.personal|Chiayi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.secret|Chiayi.secret]] 
+
+### #is_/same_as :: [Chiayi](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi.md) 
+
+### #is_/same_as :: [Chiayi.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi.public.md) 
+
+### #is_/same_as :: [Chiayi.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi.internal.md) 
+
+### #is_/same_as :: [Chiayi.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi.protect.md) 
+
+### #is_/same_as :: [Chiayi.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi.private.md) 
+
+### #is_/same_as :: [Chiayi.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi.personal.md) 
+
+### #is_/same_as :: [Chiayi.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi.secret.md)
 

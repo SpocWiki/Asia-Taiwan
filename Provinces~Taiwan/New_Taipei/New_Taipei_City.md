@@ -40,11 +40,18 @@ markerFolder: ./New_Taipei_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City|New_Taipei_City]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.public|New_Taipei_City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.internal|New_Taipei_City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.protect|New_Taipei_City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.private|New_Taipei_City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.personal|New_Taipei_City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.secret|New_Taipei_City.secret]] 
+
+### #is_/same_as :: [New_Taipei_City](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/New_Taipei/New_Taipei_City.md) 
+
+### #is_/same_as :: [New_Taipei_City.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/New_Taipei/New_Taipei_City.public.md) 
+
+### #is_/same_as :: [New_Taipei_City.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/New_Taipei/New_Taipei_City.internal.md) 
+
+### #is_/same_as :: [New_Taipei_City.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/New_Taipei/New_Taipei_City.protect.md) 
+
+### #is_/same_as :: [New_Taipei_City.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/New_Taipei/New_Taipei_City.private.md) 
+
+### #is_/same_as :: [New_Taipei_City.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/New_Taipei/New_Taipei_City.personal.md) 
+
+### #is_/same_as :: [New_Taipei_City.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/New_Taipei/New_Taipei_City.secret.md)
 

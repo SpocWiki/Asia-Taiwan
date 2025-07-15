@@ -40,11 +40,18 @@ markerFolder: ./Taipei_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City|Taipei_City]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.public|Taipei_City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.internal|Taipei_City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.protect|Taipei_City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.private|Taipei_City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.personal|Taipei_City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.secret|Taipei_City.secret]] 
+
+### #is_/same_as :: [Taipei_City](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.md) 
+
+### #is_/same_as :: [Taipei_City.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.public.md) 
+
+### #is_/same_as :: [Taipei_City.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.internal.md) 
+
+### #is_/same_as :: [Taipei_City.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.protect.md) 
+
+### #is_/same_as :: [Taipei_City.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.private.md) 
+
+### #is_/same_as :: [Taipei_City.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.personal.md) 
+
+### #is_/same_as :: [Taipei_City.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.secret.md)
 

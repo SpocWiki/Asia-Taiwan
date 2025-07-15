@@ -40,11 +40,18 @@ markerFolder: ./Taitung/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung|Taitung]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.public|Taitung.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.internal|Taitung.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.protect|Taitung.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.private|Taitung.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.personal|Taitung.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.secret|Taitung.secret]] 
+
+### #is_/same_as :: [Taitung](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taitung.md) 
+
+### #is_/same_as :: [Taitung.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taitung.public.md) 
+
+### #is_/same_as :: [Taitung.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taitung.internal.md) 
+
+### #is_/same_as :: [Taitung.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taitung.protect.md) 
+
+### #is_/same_as :: [Taitung.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taitung.private.md) 
+
+### #is_/same_as :: [Taitung.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taitung.personal.md) 
+
+### #is_/same_as :: [Taitung.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taitung.secret.md)
 

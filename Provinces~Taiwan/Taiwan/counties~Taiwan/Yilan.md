@@ -40,11 +40,18 @@ markerFolder: ./Yilan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan|Yilan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.public|Yilan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.internal|Yilan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.protect|Yilan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.private|Yilan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.personal|Yilan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.secret|Yilan.secret]] 
+
+### #is_/same_as :: [Yilan](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yilan.md) 
+
+### #is_/same_as :: [Yilan.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yilan.public.md) 
+
+### #is_/same_as :: [Yilan.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yilan.internal.md) 
+
+### #is_/same_as :: [Yilan.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yilan.protect.md) 
+
+### #is_/same_as :: [Yilan.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yilan.private.md) 
+
+### #is_/same_as :: [Yilan.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yilan.personal.md) 
+
+### #is_/same_as :: [Yilan.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yilan.secret.md)
 

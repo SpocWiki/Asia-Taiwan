@@ -40,11 +40,18 @@ markerFolder: ./Pingtung/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung|Pingtung]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.public|Pingtung.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.internal|Pingtung.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.protect|Pingtung.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.private|Pingtung.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.personal|Pingtung.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.secret|Pingtung.secret]] 
+
+### #is_/same_as :: [Pingtung](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Pingtung.md) 
+
+### #is_/same_as :: [Pingtung.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Pingtung.public.md) 
+
+### #is_/same_as :: [Pingtung.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Pingtung.internal.md) 
+
+### #is_/same_as :: [Pingtung.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Pingtung.protect.md) 
+
+### #is_/same_as :: [Pingtung.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Pingtung.private.md) 
+
+### #is_/same_as :: [Pingtung.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Pingtung.personal.md) 
+
+### #is_/same_as :: [Pingtung.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Pingtung.secret.md)
 

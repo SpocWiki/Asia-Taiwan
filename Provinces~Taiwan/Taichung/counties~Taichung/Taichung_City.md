@@ -40,11 +40,18 @@ markerFolder: ./Taichung_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City|Taichung_City]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.public|Taichung_City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.internal|Taichung_City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.protect|Taichung_City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.private|Taichung_City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.personal|Taichung_City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.secret|Taichung_City.secret]] 
+
+### #is_/same_as :: [Taichung_City](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taichung/counties~Taichung/Taichung_City.md) 
+
+### #is_/same_as :: [Taichung_City.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taichung/counties~Taichung/Taichung_City.public.md) 
+
+### #is_/same_as :: [Taichung_City.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taichung/counties~Taichung/Taichung_City.internal.md) 
+
+### #is_/same_as :: [Taichung_City.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taichung/counties~Taichung/Taichung_City.protect.md) 
+
+### #is_/same_as :: [Taichung_City.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taichung/counties~Taichung/Taichung_City.private.md) 
+
+### #is_/same_as :: [Taichung_City.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taichung/counties~Taichung/Taichung_City.personal.md) 
+
+### #is_/same_as :: [Taichung_City.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taichung/counties~Taichung/Taichung_City.secret.md)
 

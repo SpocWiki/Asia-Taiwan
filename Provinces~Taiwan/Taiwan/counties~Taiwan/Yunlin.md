@@ -40,11 +40,18 @@ markerFolder: ./Yunlin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin|Yunlin]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.public|Yunlin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.internal|Yunlin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.protect|Yunlin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.private|Yunlin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.personal|Yunlin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.secret|Yunlin.secret]] 
+
+### #is_/same_as :: [Yunlin](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.md) 
+
+### #is_/same_as :: [Yunlin.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.public.md) 
+
+### #is_/same_as :: [Yunlin.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.internal.md) 
+
+### #is_/same_as :: [Yunlin.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.protect.md) 
+
+### #is_/same_as :: [Yunlin.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.private.md) 
+
+### #is_/same_as :: [Yunlin.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.personal.md) 
+
+### #is_/same_as :: [Yunlin.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.secret.md)
 

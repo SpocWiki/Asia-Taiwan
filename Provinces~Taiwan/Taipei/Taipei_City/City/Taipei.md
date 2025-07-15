@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/City/Taipei|Taipei]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/City/Taipei.public|Taipei.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/City/Taipei.internal|Taipei.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/City/Taipei.protect|Taipei.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/City/Taipei.private|Taipei.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/City/Taipei.personal|Taipei.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/City/Taipei.secret|Taipei.secret]] 
+
+### #is_/same_as :: [Taipei](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City/City/Taipei.md) 
+
+### #is_/same_as :: [Taipei.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City/City/Taipei.public.md) 
+
+### #is_/same_as :: [Taipei.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City/City/Taipei.internal.md) 
+
+### #is_/same_as :: [Taipei.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City/City/Taipei.protect.md) 
+
+### #is_/same_as :: [Taipei.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City/City/Taipei.private.md) 
+
+### #is_/same_as :: [Taipei.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City/City/Taipei.personal.md) 
+
+### #is_/same_as :: [Taipei.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City/City/Taipei.secret.md)
+

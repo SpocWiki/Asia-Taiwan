@@ -40,11 +40,18 @@ markerFolder: ./Kinmen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen|Kinmen]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.public|Kinmen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.internal|Kinmen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.protect|Kinmen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.private|Kinmen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.personal|Kinmen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.secret|Kinmen.secret]] 
+
+### #is_/same_as :: [Kinmen](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.md) 
+
+### #is_/same_as :: [Kinmen.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.public.md) 
+
+### #is_/same_as :: [Kinmen.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.internal.md) 
+
+### #is_/same_as :: [Kinmen.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.protect.md) 
+
+### #is_/same_as :: [Kinmen.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.private.md) 
+
+### #is_/same_as :: [Kinmen.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.personal.md) 
+
+### #is_/same_as :: [Kinmen.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Lienchiang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang|Lienchiang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.public|Lienchiang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.internal|Lienchiang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.protect|Lienchiang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.private|Lienchiang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.personal|Lienchiang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.secret|Lienchiang.secret]] 
+
+### #is_/same_as :: [Lienchiang](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Lienchiang.md) 
+
+### #is_/same_as :: [Lienchiang.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Lienchiang.public.md) 
+
+### #is_/same_as :: [Lienchiang.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Lienchiang.internal.md) 
+
+### #is_/same_as :: [Lienchiang.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Lienchiang.protect.md) 
+
+### #is_/same_as :: [Lienchiang.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Lienchiang.private.md) 
+
+### #is_/same_as :: [Lienchiang.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Lienchiang.personal.md) 
+
+### #is_/same_as :: [Lienchiang.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Lienchiang.secret.md)
 

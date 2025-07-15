@@ -40,11 +40,18 @@ markerFolder: ./Taoyuan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan|Taoyuan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.public|Taoyuan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.internal|Taoyuan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.protect|Taoyuan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.private|Taoyuan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.personal|Taoyuan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.secret|Taoyuan.secret]] 
+
+### #is_/same_as :: [Taoyuan](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taoyuan.md) 
+
+### #is_/same_as :: [Taoyuan.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taoyuan.public.md) 
+
+### #is_/same_as :: [Taoyuan.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taoyuan.internal.md) 
+
+### #is_/same_as :: [Taoyuan.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taoyuan.protect.md) 
+
+### #is_/same_as :: [Taoyuan.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taoyuan.private.md) 
+
+### #is_/same_as :: [Taoyuan.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taoyuan.personal.md) 
+
+### #is_/same_as :: [Taoyuan.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Taoyuan.secret.md)
 

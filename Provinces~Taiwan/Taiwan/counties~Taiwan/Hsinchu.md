@@ -40,11 +40,18 @@ markerFolder: ./Hsinchu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu|Hsinchu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.public|Hsinchu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.internal|Hsinchu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.protect|Hsinchu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.private|Hsinchu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.personal|Hsinchu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.secret|Hsinchu.secret]] 
+
+### #is_/same_as :: [Hsinchu](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu.md) 
+
+### #is_/same_as :: [Hsinchu.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu.public.md) 
+
+### #is_/same_as :: [Hsinchu.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu.internal.md) 
+
+### #is_/same_as :: [Hsinchu.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu.protect.md) 
+
+### #is_/same_as :: [Hsinchu.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu.private.md) 
+
+### #is_/same_as :: [Hsinchu.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu.personal.md) 
+
+### #is_/same_as :: [Hsinchu.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Hsinchu.secret.md)
 

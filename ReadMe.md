@@ -121,10 +121,4 @@ Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Taiwan|Taiwan]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]] 
+
