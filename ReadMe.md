@@ -1,33 +1,34 @@
 ---
 location:
-- 25.08
-- 121.55
+  - 25.08
+  - 121.55
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27042
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Taiwan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Taiwan
-- 
+  - Taiwan
+  - 
 Languages:
-- zh-TW
-- zh
-- nan
-- hak
+  - zh-TW
+  - zh
+  - nan
+  - hak
 ---
 
 
