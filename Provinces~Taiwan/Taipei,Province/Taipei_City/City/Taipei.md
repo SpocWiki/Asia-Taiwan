@@ -6,12 +6,34 @@ type: City
 tags:
 - geo/City
 
+type: geo-Region
+title: Taipei_City
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
 
 SpocWebEntityId: 34735
 isDeleted: false
+isReadOnly: false
+draft: false
 confidential: public
-
+tags:
+  - geo/Country/Region
+aliases:
+  - Taipei_City
+Languages:
+  - de
+cssclasses:
+  - geo-Region
+publish: true
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
+
+# [[Taipei]] 
+
 [geo-lon::121.55] 
 [geo-lat::25.08] 
 [name::Taipei] 
@@ -20,6 +42,7 @@ Country :: [[../../../../Taiwan]]
 [StateId::] 
 [Population::] 
 [Unknown::] 
+#is_/same_as :: [[Taipei]] 
 
 
 ```leaflet
@@ -27,7 +50,11 @@ id: Taipei
 coordinates: [[Taipei]] 
 markerFile: [[Taipei]] 
 defaultZoom: 11 
+zoomFeatures: true 
+minZoom: 2 
 maxZoom: 18
+geojsonFolder: ./Taipei_City/
+markerFolder: ./Taipei_City/
 ```
 
 
