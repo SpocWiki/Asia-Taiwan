@@ -3,7 +3,9 @@ aliases:
   - National Palace Museum
   - Taipei Palace Museum
 has_id_wikidata: Q540668
-location: "[[_Standards/WikiData/WD~Shilin_District,254626]]"
+location: [ 25.102222222, 121.548611111]
+coordinate_location: Point(121.548611111 25.102222222)
+locations: "[[_Standards/WikiData/WD~Shilin_District,254626]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Shilin_District,254626]]"
 owner_of: "[[_Standards/WikiData/WD~Dwelling_in_the_Fuchun_Mountains,706846]]"
 parent_organization_or_unit: "[[_Standards/WikiData/WD~Executive_Yuan,715055]]"
@@ -23,7 +25,6 @@ visitors_per_year:
   - 416436
   - 3832373
   - 3860644
-coordinate_location: Point(121.548611111 25.102222222)
 date_of_official_opening: 1965-01-01T00:00:00Z
 short_name: NPM
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Taipei%20Koxinga%20Temple%20%26%20National%20Palace%20Museum.jpg
