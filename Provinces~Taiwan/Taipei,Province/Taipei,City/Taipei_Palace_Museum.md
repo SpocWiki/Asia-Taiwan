@@ -76,3 +76,20 @@ inception: 1925-10-10T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Palace%20Museum) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City/Taipei_Palace_Museum|Taipei_Palace_Museum]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City/Taipei_Palace_Museum.public|Taipei_Palace_Museum.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City/Taipei_Palace_Museum.internal|Taipei_Palace_Museum.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City/Taipei_Palace_Museum.protect|Taipei_Palace_Museum.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City/Taipei_Palace_Museum.private|Taipei_Palace_Museum.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City/Taipei_Palace_Museum.personal|Taipei_Palace_Museum.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City/Taipei_Palace_Museum.secret|Taipei_Palace_Museum.secret]] 
+

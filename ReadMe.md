@@ -121,5 +121,19 @@ Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]
 [geo-lat::25.08] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/ReadMe|ReadMe]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/ReadMe.public|ReadMe.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/ReadMe.internal|ReadMe.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/ReadMe.protect|ReadMe.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/ReadMe.private|ReadMe.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/ReadMe.personal|ReadMe.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/ReadMe.secret|ReadMe.secret]] 
 

@@ -76,17 +76,17 @@ markerFolder: ./Taipei,City/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taipei_City](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City|Taipei,City]] 
 
-### #is_/same_as :: [Taipei_City.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City.public|Taipei,City.public]] 
 
-### #is_/same_as :: [Taipei_City.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City.internal|Taipei,City.internal]] 
 
-### #is_/same_as :: [Taipei_City.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City.protect|Taipei,City.protect]] 
 
-### #is_/same_as :: [Taipei_City.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City.private|Taipei,City.private]] 
 
-### #is_/same_as :: [Taipei_City.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City.personal|Taipei,City.personal]] 
 
-### #is_/same_as :: [Taipei_City.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei/Taipei_City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taipei,Province/Taipei,City.secret|Taipei,City.secret]] 
 

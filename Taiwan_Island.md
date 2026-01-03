@@ -85,3 +85,19 @@ Commons_category: Taiwan Island
 > [Wikipedia](https://en.wikipedia.org/wiki/Geography%20of%20Taiwan) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Island|Taiwan_Island]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Island.public|Taiwan_Island.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Island.internal|Taiwan_Island.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Island.protect|Taiwan_Island.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Island.private|Taiwan_Island.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Island.personal|Taiwan_Island.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Island.secret|Taiwan_Island.secret]] 
+

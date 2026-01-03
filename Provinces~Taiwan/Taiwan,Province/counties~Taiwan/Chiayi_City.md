@@ -40,17 +40,17 @@ markerFolder: ./Chiayi_City/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chiayi_City](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi_City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Chiayi_City|Chiayi_City]] 
 
-### #is_/same_as :: [Chiayi_City.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi_City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Chiayi_City.public|Chiayi_City.public]] 
 
-### #is_/same_as :: [Chiayi_City.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi_City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Chiayi_City.internal|Chiayi_City.internal]] 
 
-### #is_/same_as :: [Chiayi_City.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi_City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Chiayi_City.protect|Chiayi_City.protect]] 
 
-### #is_/same_as :: [Chiayi_City.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi_City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Chiayi_City.private|Chiayi_City.private]] 
 
-### #is_/same_as :: [Chiayi_City.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi_City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Chiayi_City.personal|Chiayi_City.personal]] 
 
-### #is_/same_as :: [Chiayi_City.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Chiayi_City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Chiayi_City.secret|Chiayi_City.secret]] 
 

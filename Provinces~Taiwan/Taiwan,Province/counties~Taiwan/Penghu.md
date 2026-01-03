@@ -40,17 +40,17 @@ markerFolder: ./Penghu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Penghu](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Penghu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Penghu|Penghu]] 
 
-### #is_/same_as :: [Penghu.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Penghu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Penghu.public|Penghu.public]] 
 
-### #is_/same_as :: [Penghu.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Penghu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Penghu.internal|Penghu.internal]] 
 
-### #is_/same_as :: [Penghu.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Penghu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Penghu.protect|Penghu.protect]] 
 
-### #is_/same_as :: [Penghu.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Penghu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Penghu.private|Penghu.private]] 
 
-### #is_/same_as :: [Penghu.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Penghu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Penghu.personal|Penghu.personal]] 
 
-### #is_/same_as :: [Penghu.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Penghu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Penghu.secret|Penghu.secret]] 
 

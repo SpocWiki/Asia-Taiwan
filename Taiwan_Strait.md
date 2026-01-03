@@ -74,3 +74,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taiwan%20Strait) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Strait|Taiwan_Strait]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Strait.public|Taiwan_Strait.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Strait.internal|Taiwan_Strait.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Strait.protect|Taiwan_Strait.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Strait.private|Taiwan_Strait.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Strait.personal|Taiwan_Strait.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Taiwan_Strait.secret|Taiwan_Strait.secret]] 
+

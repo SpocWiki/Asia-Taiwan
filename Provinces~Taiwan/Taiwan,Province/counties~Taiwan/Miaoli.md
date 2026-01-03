@@ -40,17 +40,17 @@ markerFolder: ./Miaoli/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miaoli](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Miaoli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Miaoli|Miaoli]] 
 
-### #is_/same_as :: [Miaoli.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Miaoli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Miaoli.public|Miaoli.public]] 
 
-### #is_/same_as :: [Miaoli.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Miaoli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Miaoli.internal|Miaoli.internal]] 
 
-### #is_/same_as :: [Miaoli.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Miaoli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Miaoli.protect|Miaoli.protect]] 
 
-### #is_/same_as :: [Miaoli.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Miaoli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Miaoli.private|Miaoli.private]] 
 
-### #is_/same_as :: [Miaoli.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Miaoli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Miaoli.personal|Miaoli.personal]] 
 
-### #is_/same_as :: [Miaoli.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Miaoli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Miaoli.secret|Miaoli.secret]] 
 

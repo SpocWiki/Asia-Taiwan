@@ -40,17 +40,17 @@ markerFolder: ./Nantou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nantou](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Nantou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Nantou|Nantou]] 
 
-### #is_/same_as :: [Nantou.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Nantou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Nantou.public|Nantou.public]] 
 
-### #is_/same_as :: [Nantou.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Nantou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Nantou.internal|Nantou.internal]] 
 
-### #is_/same_as :: [Nantou.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Nantou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Nantou.protect|Nantou.protect]] 
 
-### #is_/same_as :: [Nantou.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Nantou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Nantou.private|Nantou.private]] 
 
-### #is_/same_as :: [Nantou.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Nantou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Nantou.personal|Nantou.personal]] 
 
-### #is_/same_as :: [Nantou.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Nantou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Nantou.secret|Nantou.secret]] 
 

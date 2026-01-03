@@ -40,17 +40,17 @@ markerFolder: ./Yunlin/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yunlin](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Yunlin|Yunlin]] 
 
-### #is_/same_as :: [Yunlin.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Yunlin.public|Yunlin.public]] 
 
-### #is_/same_as :: [Yunlin.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Yunlin.internal|Yunlin.internal]] 
 
-### #is_/same_as :: [Yunlin.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Yunlin.protect|Yunlin.protect]] 
 
-### #is_/same_as :: [Yunlin.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Yunlin.private|Yunlin.private]] 
 
-### #is_/same_as :: [Yunlin.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Yunlin.personal|Yunlin.personal]] 
 
-### #is_/same_as :: [Yunlin.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan/counties~Taiwan/Yunlin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Taiwan,Province/counties~Taiwan/Yunlin.secret|Yunlin.secret]] 
 

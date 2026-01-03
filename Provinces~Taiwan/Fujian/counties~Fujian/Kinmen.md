@@ -40,17 +40,17 @@ markerFolder: ./Kinmen/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kinmen](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen|Kinmen]] 
 
-### #is_/same_as :: [Kinmen.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.public|Kinmen.public]] 
 
-### #is_/same_as :: [Kinmen.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.internal|Kinmen.internal]] 
 
-### #is_/same_as :: [Kinmen.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.protect|Kinmen.protect]] 
 
-### #is_/same_as :: [Kinmen.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.private|Kinmen.private]] 
 
-### #is_/same_as :: [Kinmen.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.personal|Kinmen.personal]] 
 
-### #is_/same_as :: [Kinmen.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Taiwan/Provinces~Taiwan/Fujian/counties~Fujian/Kinmen.secret|Kinmen.secret]] 
 
