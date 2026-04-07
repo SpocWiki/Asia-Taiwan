@@ -114,7 +114,7 @@ markerFolder: ./
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::RC] 
-Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]  
+Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei|Taipei]]  
 [Alcohol-l::] 
 [Language-Id::485] 
 [geo-lon::121.55] 

@@ -1,17 +1,17 @@
 ---
 aliases:
 has_id_wikidata: Q378008
-subclass_of: "[[_Standards/WikiData/WD~history_of_East_Asia,831198]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-different_from: "[[_Standards/WikiData/WD~history_of_the_Republic_of_China,1151968]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_East_Asia,831198|WD~history_of_East_Asia,831198]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+different_from: "[[_Standards/WikiData/WD~history_of_the_Republic_of_China,1151968|WD~history_of_the_Republic_of_China,1151968]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_History_of_Taiwan,13227204]]"
-  - "[[_Standards/WikiData/WD~Q95613771,95613771]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-has_part_s_: "[[_Standards/WikiData/WD~history_of_wars_in_Taiwan,19853555]]"
+  - "[[_Standards/WikiData/WD~Template_History_of_Taiwan,13227204|WD~Template_History_of_Taiwan,13227204]]"
+  - "[[_Standards/WikiData/WD~Q95613771,95613771|WD~Q95613771,95613771]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+has_part_s_: "[[_Standards/WikiData/WD~history_of_wars_in_Taiwan,19853555|WD~history_of_wars_in_Taiwan,19853555]]"
 facet_of:
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Taiwan_Island,22502]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Taiwan_Island,22502|WD~Taiwan_Island,22502]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20Banner%20of%20Taiwan%20History.jpg
 Commons_category: History of Taiwan
 ---

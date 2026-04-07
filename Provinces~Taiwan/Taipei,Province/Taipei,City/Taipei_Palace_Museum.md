@@ -5,19 +5,19 @@ aliases:
 has_id_wikidata: Q540668
 location: [ 25.102222222, 121.548611111]
 coordinate_location: Point(121.548611111 25.102222222)
-locations: "[[_Standards/WikiData/WD~Shilin_District,254626]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Shilin_District,254626]]"
-owner_of: "[[_Standards/WikiData/WD~Dwelling_in_the_Fuchun_Mountains,706846]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Executive_Yuan,715055]]"
-different_from: "[[_Standards/WikiData/WD~The_Palace_Museum,2047427]]"
-has_part_s_: "[[_Standards/WikiData/WD~Southern_Branch_of_the_National_Palace_Museum,10927084]]"
+locations: "[[_Standards/WikiData/WD~Shilin_District,254626|WD~Shilin_District,254626]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Shilin_District,254626|WD~Shilin_District,254626]]"
+owner_of: "[[_Standards/WikiData/WD~Dwelling_in_the_Fuchun_Mountains,706846|WD~Dwelling_in_the_Fuchun_Mountains,706846]]"
+parent_organization_or_unit: "[[_Standards/WikiData/WD~Executive_Yuan,715055|WD~Executive_Yuan,715055]]"
+different_from: "[[_Standards/WikiData/WD~The_Palace_Museum,2047427|WD~The_Palace_Museum,2047427]]"
+has_part_s_: "[[_Standards/WikiData/WD~Southern_Branch_of_the_National_Palace_Museum,10927084|WD~Southern_Branch_of_the_National_Palace_Museum,10927084]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~cultural_heritage_monument_in_Taipei,15894910]]"
-  - "[[_Standards/WikiData/WD~national_museum,17431399]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]"
-described_by_source: "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director_of_the_National_Palace_Museum,114895828]]"
-country: "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~cultural_heritage_monument_in_Taipei,15894910|WD~cultural_heritage_monument_in_Taipei,15894910]]"
+  - "[[_Standards/WikiData/WD~national_museum,17431399|WD~national_museum,17431399]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751|WD~National_Museum_of_World_Cultures,17153751]]"
+described_by_source: "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989|WD~Open_GLAM_Survey,73357989]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director_of_the_National_Palace_Museum,114895828|WD~Director_of_the_National_Palace_Museum,114895828]]"
+country: "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
 social_media_followers: 86300
 Commons_Institution_page: National Palace Museum
 Commons_category: National Palace Museum

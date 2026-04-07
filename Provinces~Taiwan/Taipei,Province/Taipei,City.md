@@ -41,7 +41,7 @@ has_id_wikidata: Q1867
 [geo-lat::25.08] 
 [name::Taipei] 
 State ::  
-Country :: [[../../../../Taiwan]]  
+Country :: [[../../../../Taiwan|Taiwan]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
