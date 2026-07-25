@@ -23,7 +23,7 @@ dv_ISO2: TW
 dv_ISO3: TWN
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+  - '[[../../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]]'
   - '[[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]'
@@ -332,15 +332,15 @@ dv_has_:
 dv_has_name_de: Taiwan, Province Of China
 dv_Area-Total: 36000
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: RC
-dv_Capital: '[[Taiwan/Counties/Taipei_City/City/Taipei|Taipei]]'
+dv_Capital: '[[Counties/Taipei_City/City/Taipei|Taipei]]'
 dv_Language-Id: 485
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 121.55
 dv_has_place_latitude: 25.08
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[../../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]]'
 - '[[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]'
@@ -1029,12 +1029,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]   
+#is_/same_as :: [[../../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]   
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Taiwan/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -1055,7 +1055,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Taiwan_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
